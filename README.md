@@ -8,13 +8,13 @@ A responsive and modern landing page built with **HTML5** and **CSS3**. This pro
 - Clean and simple code
 - Easy to customize
 
+## Screenshot
+![Landing Page](images/screenshot.png)
+
 ##  How to Run Locally
 1. Clone this repository:
 ```bash
- https://github.com/akhilak5/Task1-Landing-page
-
-## Screenshot
-![Landing Page](images/screenshot.png)
+https://github.com/akhilak5/Task1-Landing-page
 
 
 
